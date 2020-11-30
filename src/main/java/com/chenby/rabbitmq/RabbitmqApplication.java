@@ -9,7 +9,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class RabbitmqApplication extends SpringBootServletInitializer {
 
     /**
-     * 
+     *
      * @param builder
      * @return
      */

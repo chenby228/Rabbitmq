@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a7a84b4-90d5-4ee8-ac84-4f6f0b5c2744" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kr2DDbW3Zo2enQdwqwGJ4s1tg3" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chenby.rabbitmq.RabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a7a84b4-90d5-4ee8-ac84-4f6f0b5c2744" name="Default Changelist" comment="" />
+      <created>1606444267519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606444267519</updated>
+      <workItem from="1606444270215" duration="3927000" />
+      <workItem from="1606696730508" duration="12000" />
+      <workItem from="1606696782592" duration="364000" />
+    </task>
+    <task id="LOCAL-00001" summary="add tomcat server">
+      <created>1606448846074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606448846074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add tomcat server" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tomcat server" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="573" y="138" key="CommitChangelistDialog2" timestamp="1606448845455">
+      <screen x="38" y="23" width="1882" height="1057" />
+    </state>
+    <state x="573" y="138" key="CommitChangelistDialog2/38.23.1882.1057@38.23.1882.1057" timestamp="1606448845455" />
+    <state x="854" y="455" key="Github.ShareDialog" timestamp="1606465067275">
+      <screen x="38" y="23" width="1882" height="1057" />
+    </state>
+    <state x="854" y="455" key="Github.ShareDialog/38.23.1882.1057@38.23.1882.1057" timestamp="1606465067275" />
+    <state width="1840" height="290" key="GridCell.Tab.0.bottom" timestamp="1606696678532">
+      <screen x="38" y="23" width="1882" height="1057" />
+    </state>
+    <state width="1840" height="290" key="GridCell.Tab.0.bottom/38.23.1882.1057@38.23.1882.1057" timestamp="1606696678532" />
+    <state width="1840" height="290" key="GridCell.Tab.0.center" timestamp="1606696678531">
+      <screen x="38" y="23" width="1882" height="1057" />
+    </state>
+    <state width="1840" height="290" key="GridCell.Tab.0.center/38.23.1882.1057@38.23.1882.1057" timestamp="1606696678531" />
+    <state width="1840" height="290" key="GridCell.Tab.0.left" timestamp="1606696678530">
+      <screen x="38" y="23" width="1882" height="1057" />
+    </state>
+    <state width="1840" height="290" key="GridCell.Tab.0.left/38.23.1882.1057@38.23.1882.1057" timestamp="1606696678530" />
+    <state width="1840" height="290" key="GridCell.Tab.0.right" timestamp="1606696678531">
+      <screen x="38" y="23" width="1882" height="1057" />
+    </state>
+    <state width="1840" height="290" key="GridCell.Tab.0.right/38.23.1882.1057@38.23.1882.1057" timestamp="1606696678531" />
+    <state x="467" y="133" key="SettingsEditor" timestamp="1606696741166">
+      <screen x="38" y="23" width="1882" height="1057" />
+    </state>
+    <state x="467" y="133" key="SettingsEditor/38.23.1882.1057@38.23.1882.1057" timestamp="1606696741166" />
+    <state x="578" y="291" key="Vcs.Push.Dialog.v2" timestamp="1606448937368">
+      <screen x="38" y="23" width="1882" height="1057" />
+    </state>
+    <state x="578" y="291" key="Vcs.Push.Dialog.v2/38.23.1882.1057@38.23.1882.1057" timestamp="1606448937368" />
+    <state x="679" y="308" width="598" height="486" key="find.popup" timestamp="1606444586000">
+      <screen x="37" y="23" width="1883" height="1057" />
+    </state>
+    <state x="679" y="308" width="598" height="486" key="find.popup/37.23.1883.1057@37.23.1883.1057" timestamp="1606444586000" />
+  </component>
+</project>
